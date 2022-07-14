@@ -1,0 +1,103 @@
+header { /* Propiedades del encabezado de la página */
+  text-align: center;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500px;
+  font-size: 50px;
+    
+}
+
+body {
+  background-color: #000000;
+  text-align: center;
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+}
+
+.cat_iguana_background {
+  background-color: #000000;
+  display:inline-block;
+  
+}
+
+.desc-section {
+  background-color: #000000;
+  display:inline-block;
+	margin: 0;
+	padding: 45px 0;
+  
+}
+
+.lateral_text { /* texto lateral izquierdo de la sección descriptiva de la iguana */
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300px;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: left;
+  vertical-align: middle;
+  width:50%;
+  display:inline-flex;
+  margin-right: 25px;
+}
+
+.lateral_iguana {
+	display: inline-flex;
+	width: 30%;
+	vertical-align: middle;
+  margin-left: 25px;
+
+}
+
+.icons-section {
+  text-align: center;
+  background-color:#1e1a13;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300px;
+  font-size: 24px;
+  /*display: inline-flexbox;*/
+ /* padding: 75px 150px;*/
+  width: 100%;
+  padding: 20px;
+  
+}
+
+.icons-section div {
+    display:inline-block
+
+}
+
+h2 {
+  text-align: center;
+  background-color:#1e1a13;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500px;
+  font-size: 40px;
+
+}
+
+.cat_final_images {
+  text-align: center;
+  background-color: #000000;
+  padding: 73px 150px;
+
+}
+
+footer {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300px;
+  font-size: 20px;text-align: center;
+  background-color:#1e1a13;
+  color: #ffffff;
+  padding: 34px 34px;
+
+}
+
+.icons {
+	display: inline-block;
+	width: 10%;
+}
